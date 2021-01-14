@@ -1,0 +1,39 @@
+.person {
+    font-family: 'Sansita Swashed', cursive;
+    color:#DE3163;
+}
+
+.name {
+      font-family: 'Sansita Swashed', cursive;
+      color: brown;
+}
+
+p {
+    font-size: 18px;
+}
+body    {
+    background-color: #FFBF00;
+}
+
+img { 
+    width: 300px;
+}
+
+likes {
+    font-family: 'Sansita Swashed', cursive;
+      color: #DE3163;
+}
+
+li {
+   font-size: 19px;
+   font-family: 'Sansita Swashed', cursive;
+    color: #DE3163;
+}
+
+footer {
+    font-size: 30px;
+    background-color: #DE3163;
+    text-align: center;
+    padding: 9px;
+    color: black;
+}
